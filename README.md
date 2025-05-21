@@ -1,73 +1,96 @@
-# Welcome to your Lovable project
+# 🧿 Meduza Creations
 
-## Project info
+**Meduza Creations** is a professional design agency specializing in **UI/UX Design**, **Graphic Design**, and **Creative Branding**. This website serves as our digital portfolio and service showcase — built for performance, responsiveness, and a stunning visual experience.
 
-**URL**: https://lovable.dev/projects/501db735-ce8a-4b9d-a654-c81c0d3f0b3d
+🌐 **Live Site**: [https://meduzapvt.netlify.app/](https://meduzapvt.netlify.app/)
 
-## How can I edit this code?
+📂 **GitHub Repo**: [https://github.com/LahiruZaM/Meduzacreations.git](https://github.com/LahiruZaM/Meduzacreations.git)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚀 Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/501db735-ce8a-4b9d-a654-c81c0d3f0b3d) and start prompting.
+* **Framework**: [Vite](https://vitejs.dev/)
+* **Styling**: Tailwind CSS (or your CSS framework)
+* **JS Library**: React (if used)
+* **Additional Tools**: Framer Motion, ShadCN/UI, Lucide Icons (if used)
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🌟 Key Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* 🎨 Dark + Green creative visual theme
+* 🧩 Clean UI with animated transitions
+* 🗂️ Categorized design showcases (UI/UX, logos, flyers, stationery kits)
+* 💰 Simple pricing section for services
+* 📞 Contact page with social links
+* 📱 Fully responsive layout
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📁 Project Structure
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```
+meduza-creations/
+├── public/               # Static files
+├── src/
+│   ├── assets/           # Images, vectors, icons
+│   ├── components/       # UI components
+│   ├── pages/            # Individual page views
+│   ├── styles/           # Tailwind/global styles
+│   └── main.jsx          # App entry point
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📦 Getting Started
 
-**Use GitHub Codespaces**
+### Prerequisites
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+* Node.js (v16 or higher)
+* npm or yarn
 
-## What technologies are used for this project?
+### Setup
 
-This project is built with:
+```bash
+# Clone the repo
+git clone https://github.com/LahiruZaM/Meduzacreations.git
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+cd meduza-creations
 
-## How can I deploy this project?
+# Install dependencies
+npm install
+# or
+yarn install
+```
 
-Simply open [Lovable](https://lovable.dev/projects/501db735-ce8a-4b9d-a654-c81c0d3f0b3d) and click on Share -> Publish.
+### Development
 
-## Can I connect a custom domain to my Lovable project?
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-Yes, you can!
+### Production Build
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+```bash
+npm run build
+# or
+yarn build
+```
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## ✍️ Author
+
+* **Created by**: [LahiruZaM](https://github.com/LahiruZaM)
+* **Website**: [https://meduzapvt.netlify.app/](https://meduzapvt.netlify.app/)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
