@@ -94,7 +94,7 @@ const ContactForm = () => {
                 <Mail className="text-meduza-green flex-shrink-0" size={24} />
                 <div>
                   <h4 className="text-white font-medium mb-1">Email</h4>
-                  <p className="text-gray-400">hello@meduzacreations.com</p>
+                  <p className="text-gray-400">meduzacreations@gmail.com</p>
                 </div>
               </div>
               
@@ -102,7 +102,7 @@ const ContactForm = () => {
                 <Phone className="text-meduza-green flex-shrink-0" size={24} />
                 <div>
                   <h4 className="text-white font-medium mb-1">Phone</h4>
-                  <p className="text-gray-400">+1 (555) 123-4567</p>
+                  <p className="text-gray-400">+9478 330 5242</p>
                 </div>
               </div>
               
@@ -110,7 +110,7 @@ const ContactForm = () => {
                 <MapPin className="text-meduza-green flex-shrink-0" size={24} />
                 <div>
                   <h4 className="text-white font-medium mb-1">Location</h4>
-                  <p className="text-gray-400">New York, NY 10001, USA</p>
+                  <p className="text-gray-400">Balawinna, Pallebedda</p>
                 </div>
               </div>
               
