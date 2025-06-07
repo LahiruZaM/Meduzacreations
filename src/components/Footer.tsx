@@ -56,9 +56,9 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-bold mb-4">Contact Us</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>hello@meduzacreations.com</li>
-              <li>+1 (555) 123-4567</li>
-              <li>New York, NY 10001, USA</li>
+              <li>meduzacreations@gmail.com</li>
+              <li>+9478 330 5242</li>
+              <li>Balawinna, Pallebedda</li>
             </ul>
           </div>
         </div>
